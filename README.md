@@ -1,13 +1,10 @@
-# 66ManjunathReddy
+# 💫 About Me:
 🔭 I’m currently working on **Manzo Solutions™** – a freelancing startup delivering web apps, poster designs, UI prototypes, and media editing services.<br>
 👯 I’m looking to collaborate on open-source tools, educational platforms, or anything that empowers students and freelancers.<br>
 🤝 I’m looking for help with building a robust resource-sharing platform for engineering students, with features like secure file uploads, live compilers, and user forums.<br>
 🌱 I’m currently learning advnced frontend development (React + Tailwind), Firebase integrations, and smart automation for web apps.<br>
 💬 Ask me about frontend UI/UX design, web app architecture, Firebase workflows, or startup building as a student.<br>
 ⚡ Fun fact: I can make a fully functional, beautifully animated iOS-style web app UI before my coffee gets cold ☕🚀<br><br>
-# 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/66ManjunathReddy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/66ManjunathReddy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/66ManjunathReddy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/66ManjunathReddy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@66ManjunathReddy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manjunathreddypapaiahgari@gmail.com) 
